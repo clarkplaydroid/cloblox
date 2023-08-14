@@ -11,4 +11,4 @@ Drive: https://drive.google.com/file/d/16rbXlp6Yb9SRS0BMgXj5nV_KtErIOSId/view?us
 GitHub: Go to Releases & find the latest release.
 
 # Is there a web version?
-Yes! It's from clarkplayobby.adalo.com/cloblox-official
+Yes! It's from https://clarkplayobby.adalo.com/cloblox-official
