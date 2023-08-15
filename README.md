@@ -12,3 +12,9 @@ GitHub: Go to Releases & find the latest release.
 
 # Is there a web version?
 Yes! It's from https://clarkplayobby.adalo.com/cloblox-official
+
+# Wait! There's more!
+We upgraded the website design to a Old Windows UWP Roblox design.
+
+Here what's look like:
+![oldtonewdesign](https://github.com/clarkplaydroid/cloblox/assets/88326408/af22fc58-41a1-4efe-b5de-30f2beb2f9e6)
